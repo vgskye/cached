@@ -20,4 +20,4 @@ proc-macro = true
 quote = "1.0.6"
 darling = "0.20.8"
 proc-macro2 = "1.0.49"
-syn = "2.0.52"
+syn = "2.0.48"
